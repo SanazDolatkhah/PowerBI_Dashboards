@@ -23,7 +23,8 @@ portfolio examples.
 -   **Data Source:** Statistics Canada (public data).
 -   **Notes:** Only selected PDF pages are shared for demonstration.
 
- <img width="716" height="402" alt="Canadian Business and bankruptcy" src="https://github.com/user-attachments/assets/7c8cb882-d600-44f6-a644-c0a836248bb6" />
+<img width="716" height="402" alt="Canadian Business and bankruptcy" src="https://github.com/user-attachments/assets/7c8cb882-d600-44f6-a644-c0a836248bb6" />
+[Canadian Business and bankruptcy.pdf](https://github.com/user-attachments/files/22049888/Canadian.Business.and.bankruptcy.pdf)
 
 ### 2. Canadian Fraud Data Analytics
 
@@ -36,6 +37,7 @@ portfolio examples.
     -   `.pdf` (dashboard snapshot)
     -   
 <img width="722" height="404" alt="Canadian Fraud Data Analytics Dashboard " src="https://github.com/user-attachments/assets/ef34ccd1-6aa5-442b-a6f0-4281af6b9791" />
+[Canadian Fraud Data Analytics Dashboard – Power BI Dashboard.pdf](https://github.com/user-attachments/files/22049895/Canadian.Fraud.Data.Analytics.Dashboard.Power.BI.Dashboard.pdf)
 
 ### 3. Customer Analysis & Segmentation (RFM Model)
 
@@ -48,6 +50,8 @@ portfolio examples.
 -   **Language:** English & Persian (legacy version).
 
 <img width="718" height="404" alt="Customer Analysis   Segmentation" src="https://github.com/user-attachments/assets/efa4792c-f8b5-4d8d-a0e1-30582176dc10" />
+[Customer Analysis & Segmentation - RFM - Power BI Dashboard - Version 01.pdf](https://github.com/user-attachments/files/22049896/Customer.Analysis.Segmentation.-.RFM.-.Power.BI.Dashboard.-.Version.01.pdf)
+[Customer Analysis & Segmentation - RFM - Power BI Dashboard - Version 02.pdf](https://github.com/user-attachments/files/22049899/Customer.Analysis.Segmentation.-.RFM.-.Power.BI.Dashboard.-.Version.02.pdf)
 
 ### 4. NopCommerce Dashboard
 
@@ -58,6 +62,7 @@ portfolio examples.
 -   **Language:** Persian (developed in earlier projects).
 
 <img width="683" height="383" alt="NopCommerce" src="https://github.com/user-attachments/assets/6f0a2f0a-edf1-4340-b6d5-2db9914d218d" />
+[NopCommerce - Power BI Dashboard.pdf](https://github.com/user-attachments/files/22049901/NopCommerce.-.Power.BI.Dashboard.pdf)
 
 ### 5. Pharmacy & Drug Distribution Analytics
 
@@ -65,7 +70,9 @@ portfolio examples.
     **pharmaceutical sales and drug distribution**.
 -   **Purpose:** Demonstrates healthcare-related BI reporting.
 -   **Language:** Persian (developed in earlier projects).
--   
+
+<img width="719" height="404" alt="Pharmacy 01" src="https://github.com/user-attachments/assets/4990f3a9-4ba2-4691-be5d-3bd5204fe06f" />
+
 [Pharmacy, Drug Distribution Analytical Dashboard.pdf](https://github.com/user-attachments/files/22049880/Pharmacy.Drug.Distribution.Analytical.Dashboard.pdf)
 
 ------------------------------------------------------------------------
