@@ -49,7 +49,7 @@ portfolio examples.
     and value.
 -   **Notes:** Includes both **Version 01** and **Version 02**
     dashboards for comparison.
--   **Language:** English & Persian (legacy version).
+-   **Language:** Persian (developed in earlier projects).
 
 <img width="718" height="404" alt="Customer Analysis   Segmentation" src="https://github.com/user-attachments/assets/efa4792c-f8b5-4d8d-a0e1-30582176dc10" />
 
