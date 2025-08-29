@@ -36,10 +36,10 @@ portfolio examples.
     -   `.pbix` (Power BI file)
     -   `.xlsx` (data source file)
     -   `.pdf` (dashboard snapshot)
-    -   
+      
 <img width="722" height="404" alt="Canadian Fraud Data Analytics Dashboard " src="https://github.com/user-attachments/assets/ef34ccd1-6aa5-442b-a6f0-4281af6b9791" />
 
-[Canadian Fraud Data Analytics Dashboard – Power BI Dashboard.pdf](https://github.com/user-attachments/files/22049895/Canadian.Fraud.Data.Analytics.Dashboard.Power.BI.Dashboard.pdf)
+[Canadian Fraud Data Analytics Dashboard – Power BI Dashboard.pdf](https://github.com/user-attachments/files/22049991/Canadian.Fraud.Data.Analytics.Dashboard.Power.BI.Dashboard.pdf)
 
 ### 3. Customer Analysis & Segmentation (RFM Model)
 
@@ -94,3 +94,16 @@ portfolio examples.
 These dashboards are shared **for educational and portfolio purposes
 only**.
 No confidential or proprietary company data has been included.
+
+------------------------------------------------------------------------
+
+## Contact
+
+- Email: sanaz.dolatkhah@gmail.com
+- LinkedIn: *https://www.linkedin.com/in/sanaz-dolatkhah*
+
+# Power BI Dashboards  
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?logo=powerbi)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Last Commit](https://img.shields.io/github/last-commit/SanazDolatkhah/PowerBI_Dashboards)
